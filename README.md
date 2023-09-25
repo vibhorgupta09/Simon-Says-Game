@@ -1,2 +1,2 @@
 # Simon-Says-Game
-creadted by Vibhor Gupta.
+created by Vibhor Gupta.
